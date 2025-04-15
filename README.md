@@ -1,1 +1,1 @@
-# hp_end
+This is the Stylisation, Modelling, and Fitting Module for the histopathology project.
